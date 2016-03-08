@@ -13,94 +13,94 @@ $color_thunderbird_approx: #bd2c00;
 $color_fair_pink_approx: #ffecec;
 
 .github-gist {
-  &.hljs {
+  .hljs {
   	display: block;
   	background: $white;
   	padding: 0.5em;
   	color: $color_mine_shaft_approx;
   	overflow-x: auto;
   }
-  &.hljs-comment {
+  .hljs-comment {
   	color: $color_mountain_mist_approx;
   }
-  &.hljs-meta {
+  .hljs-meta {
   	color: $color_mountain_mist_approx;
   }
-  &.hljs-string {
+  .hljs-string {
   	color: $color_trinidad_approx;
   }
-  &.hljs-variable {
+  .hljs-variable {
   	color: $color_trinidad_approx;
   }
-  &.hljs-template-variable {
+  .hljs-template-variable {
   	color: $color_trinidad_approx;
   }
-  &.hljs-strong {
+  .hljs-strong {
   	color: $color_trinidad_approx;
   }
-  &.hljs-emphasis {
+  .hljs-emphasis {
   	color: $color_trinidad_approx;
   }
-  &.hljs-quote {
+  .hljs-quote {
   	color: $color_trinidad_approx;
   }
-  &.hljs-keyword {
+  .hljs-keyword {
   	color: $color_jazzberry_jam_approx;
   }
-  &.hljs-selector-tag {
+  .hljs-selector-tag {
   	color: $color_jazzberry_jam_approx;
   }
-  &.hljs-type {
+  .hljs-type {
   	color: $color_jazzberry_jam_approx;
   }
-  &.hljs-literal {
+  .hljs-literal {
   	color: $color_bondi_blue_approx;
   }
-  &.hljs-symbol {
+  .hljs-symbol {
   	color: $color_bondi_blue_approx;
   }
-  &.hljs-bullet {
+  .hljs-bullet {
   	color: $color_bondi_blue_approx;
   }
-  &.hljs-attribute {
+  .hljs-attribute {
   	color: $color_bondi_blue_approx;
   }
-  &.hljs-section {
+  .hljs-section {
   	color: $color_fruit_salad_approx;
   }
-  &.hljs-name {
+  .hljs-name {
   	color: $color_fruit_salad_approx;
   }
-  &.hljs-tag {
+  .hljs-tag {
   	color: $color_mine_shaft_approx;
   }
-  &.hljs-title {
+  .hljs-title {
   	color: $color_deluge_approx;
   }
-  &.hljs-attr {
+  .hljs-attr {
   	color: $color_deluge_approx;
   }
-  &.hljs-selector-id {
+  .hljs-selector-id {
   	color: $color_deluge_approx;
   }
-  &.hljs-selector-class {
+  .hljs-selector-class {
   	color: $color_deluge_approx;
   }
-  &.hljs-selector-attr {
+  .hljs-selector-attr {
   	color: $color_deluge_approx;
   }
-  &.hljs-selector-pseudo {
+  .hljs-selector-pseudo {
   	color: $color_deluge_approx;
   }
-  &.hljs-addition {
+  .hljs-addition {
   	color: $color_apple_approx;
   	background-color: $color_hint_of_green_approx;
   }
-  &.hljs-deletion {
+  .hljs-deletion {
   	color: $color_thunderbird_approx;
   	background-color: $color_fair_pink_approx;
   }
-  &.hljs-link {
+  .hljs-link {
   	text-decoration: underline;
   }
 }

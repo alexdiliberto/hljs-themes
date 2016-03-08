@@ -12,7 +12,7 @@ $color_neptune_approx: #8abeb7;
 $color_di_serria_approx: #de935f;
 
 .hybrid {
-  &.hljs {
+  .hljs {
   	display: block;
   	overflow-x: auto;
   	padding: 0.5em;
@@ -25,115 +25,115 @@ $color_di_serria_approx: #de935f;
   		background: $color_tuna_approx;
   	}
   }
-  &.hljs::selection {
+  .hljs::selection {
   	background: $color_tuna_approx;
   }
-  &.hljs::-moz-selection {
+  .hljs::-moz-selection {
   	background: $color_tuna_approx;
   }
-  &.hljs-title {
+  .hljs-title {
   	color: $color_rob_roy_approx;
   }
-  &.hljs-name {
+  .hljs-name {
   	color: $color_rob_roy_approx;
   }
-  &.hljs-comment {
+  .hljs-comment {
   	color: $color_pale_sky_approx;
   }
-  &.hljs-meta {
+  .hljs-meta {
   	color: $color_pale_sky_approx;
-  	&.hljs-keyword {
+  	.hljs-keyword {
   		color: $color_pale_sky_approx;
   	}
   }
-  &.hljs-number {
+  .hljs-number {
   	color: $color_chestnut_rose_approx;
   }
-  &.hljs-symbol {
+  .hljs-symbol {
   	color: $color_chestnut_rose_approx;
   }
-  &.hljs-literal {
+  .hljs-literal {
   	color: $color_chestnut_rose_approx;
   }
-  &.hljs-deletion {
+  .hljs-deletion {
   	color: $color_chestnut_rose_approx;
   }
-  &.hljs-link {
+  .hljs-link {
   	color: $color_chestnut_rose_approx;
   }
-  &.hljs-string {
+  .hljs-string {
   	color: $color_wild_willow_approx;
   }
-  &.hljs-doctag {
+  .hljs-doctag {
   	color: $color_wild_willow_approx;
   }
-  &.hljs-addition {
+  .hljs-addition {
   	color: $color_wild_willow_approx;
   }
-  &.hljs-regexp {
+  .hljs-regexp {
   	color: $color_wild_willow_approx;
   }
-  &.hljs-selector-attr {
+  .hljs-selector-attr {
   	color: $color_wild_willow_approx;
   }
-  &.hljs-selector-pseudo {
+  .hljs-selector-pseudo {
   	color: $color_wild_willow_approx;
   }
-  &.hljs-attribute {
+  .hljs-attribute {
   	color: $color_amethyst_smoke_approx;
   }
-  &.hljs-code {
+  .hljs-code {
   	color: $color_amethyst_smoke_approx;
   }
-  &.hljs-selector-id {
+  .hljs-selector-id {
   	color: $color_amethyst_smoke_approx;
   }
-  &.hljs-keyword {
+  .hljs-keyword {
   	color: $color_bali_hai_approx;
   }
-  &.hljs-selector-tag {
+  .hljs-selector-tag {
   	color: $color_bali_hai_approx;
   }
-  &.hljs-bullet {
+  .hljs-bullet {
   	color: $color_bali_hai_approx;
   }
-  &.hljs-tag {
+  .hljs-tag {
   	color: $color_bali_hai_approx;
   }
-  &.hljs-subst {
+  .hljs-subst {
   	color: $color_neptune_approx;
   }
-  &.hljs-variable {
+  .hljs-variable {
   	color: $color_neptune_approx;
   }
-  &.hljs-template-tag {
+  .hljs-template-tag {
   	color: $color_neptune_approx;
   }
-  &.hljs-template-variable {
+  .hljs-template-variable {
   	color: $color_neptune_approx;
   }
-  &.hljs-type {
+  .hljs-type {
   	color: $color_di_serria_approx;
   }
-  &.hljs-built_in {
+  .hljs-built_in {
   	color: $color_di_serria_approx;
   }
-  &.hljs-builtin-name {
+  .hljs-builtin-name {
   	color: $color_di_serria_approx;
   }
-  &.hljs-quote {
+  .hljs-quote {
   	color: $color_di_serria_approx;
   }
-  &.hljs-section {
+  .hljs-section {
   	color: $color_di_serria_approx;
   }
-  &.hljs-selector-class {
+  .hljs-selector-class {
   	color: $color_di_serria_approx;
   }
-  &.hljs-emphasis {
+  .hljs-emphasis {
   	font-style: italic;
   }
-  &.hljs-strong {
+  .hljs-strong {
   	font-weight: bold;
   }
 }
