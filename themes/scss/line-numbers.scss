@@ -1,9 +1,16 @@
 //colors
 $color: rgba(0, 0, 0, 0.3);
+$color-light: rgba(255, 255, 255, 0.75);
 $background: none;
 $border-radius-base: 1em;
 $pre-padding: 0;
 $border-grey: rgba(0, 0, 0, 0.1);
+
+pre > code.dark .line {
+  &:before {
+    color: $color-light;
+  }
+}
 
 pre > code .line {
 	display: inline-block;
