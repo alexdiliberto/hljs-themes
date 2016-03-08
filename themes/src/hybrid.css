@@ -2,7 +2,7 @@
   display: block;
   overflow-x: auto;
   padding: 0.5em;
-  background: #1d1f21;
+  background: #282c34;
   color: #c5c8c6;
 }
 .hybrid .hljs span::selection {
