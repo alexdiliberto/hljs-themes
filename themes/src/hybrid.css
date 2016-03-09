@@ -1,3 +1,6 @@
+.hybrid.transparent .hljs {
+  background: none;
+}
 .hybrid .hljs {
   display: block;
   overflow-x: auto;

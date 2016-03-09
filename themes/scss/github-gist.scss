@@ -13,6 +13,11 @@ $color_thunderbird_approx: #bd2c00;
 $color_fair_pink_approx: #ffecec;
 
 .github-gist {
+  &.transparent  {
+    .hljs {
+      background: none;
+    }
+  }
   .hljs {
   	display: block;
   	background: $white;

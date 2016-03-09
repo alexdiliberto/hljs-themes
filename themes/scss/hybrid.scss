@@ -12,6 +12,11 @@ $color_neptune_approx: #8abeb7;
 $color_di_serria_approx: #de935f;
 
 .hybrid {
+  &.transparent  {
+    .hljs {
+      background: none;
+    }
+  }
   .hljs {
   	display: block;
   	overflow-x: auto;
