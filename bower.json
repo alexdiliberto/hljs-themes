@@ -1,6 +1,6 @@
 {
   "name": "hljs-themes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "Carlos Rodriguez <crodriguez1a@gmail.com>"
   ],
@@ -11,7 +11,9 @@
   "keywords": [
     "highlightjs",
     "css",
-    "line numbers"
+    "line numbers",
+    "ember themed syntax",
+    "ember addon"
   ],
   "license": "MIT",
   "homepage": "https://github.com/crodriguez1a/hljs-themes"
