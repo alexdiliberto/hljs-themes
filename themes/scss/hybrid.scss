@@ -12,6 +12,7 @@ $color_neptune_approx: #8abeb7;
 $color_di_serria_approx: #de935f;
 
 .hybrid {
+  background: $color_mirage_approx;
   &.transparent  {
     .hljs {
       background: none;
@@ -21,7 +22,6 @@ $color_di_serria_approx: #de935f;
   	display: block;
   	overflow-x: auto;
   	padding: 0.5rem;
-  	background: $color_mirage_approx;
   	color: $color_pumice_approx;
   	span::selection {
   		background: $color_tuna_approx;
