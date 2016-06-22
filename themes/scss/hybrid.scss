@@ -14,9 +14,7 @@ $color_di_serria_approx: #de935f;
 .hybrid {
   background: $color_mirage_approx;
   &.transparent  {
-    .hljs {
-      background: none;
-    }
+    background: none;
   }
   .hljs {
   	display: block;

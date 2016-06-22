@@ -1,7 +1,7 @@
 .hybrid {
   background: #282c34;
 }
-.hybrid.transparent .hljs {
+.hybrid.transparent {
   background: none;
 }
 .hybrid .hljs {
