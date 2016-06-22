@@ -1,11 +1,10 @@
 {
   "name": "hljs-themes",
-  "version": "0.0.4",
   "authors": [
     "Carlos Rodriguez <crodriguez1a@gmail.com>"
   ],
   "description": "Scoped themes for highlightjs",
-  "main": "dist/github-gist.min.css",
+  "main": "src/github-gist.css",
   "moduleType": [],
   "ignore": [],
   "keywords": [
