@@ -1,0 +1,26 @@
+{
+  "name": "hljs-themes",
+  "version": "1.0.0",
+  "description": "Scoped themes for highlight.js",
+  "keywords": [
+    "highlightjs",
+    "hljs",
+    "themes",
+    "css",
+    "linenumbers",
+    "ember-themed-syntax"
+  ],
+  "license": "MIT",
+  "author": "Carlos Rodriguez <crodriguez1a@gmail.com>",
+  "contributors": [{
+    "name": "Alex DiLiberto",
+    "email": "npm@alexdiliberto.com"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crodriguez1a/hljs-themes"
+  },
+  "bugs": {
+    "url": "https://github.com/crodriguez1a/hljs-themes/issues"
+  }
+}

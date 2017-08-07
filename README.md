@@ -37,7 +37,7 @@ bower install hljs-themes --save
 
 Using the [`ember-themed-syntax`](https://github.com/crodriguez1a/ember-themed-syntax) addon
 
-```handebars
+```handlebars
 {{#themed-syntax lang="handlebars" theme="github-gist"}}
   {{! code }}
 {{/themed-syntax}}
